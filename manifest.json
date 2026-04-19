@@ -1,0 +1,23 @@
+{
+  "name": "Pulihkan.ID",
+  "short_name": "Pulihkan.ID",
+  "start_url": "https://www.pulihkan.id/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Pulihkan.id adalah layanan pendampingan pemulihan se-Indonesia untuk akun sosial media, pengaturan HP, hingga elektronik rusak.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdbwvxN2ymldZ0eLCGUd8v9WwqTkewOFzAPDKzwGoq9X1lSCSUnhj9h81yad_uPAx1i1uISelW7c3O376fFvUb5zr95DVsMwNdOfpKn4kxxXAcDAZXdA4G8M22O47t_GFm3rLEe9R6sHvBKy6kNYt3q9Mwf7VCuXKXKsj7YBNdz__gz8ZurJihdbl2gNiw/s320/Logo%20Pulihkan.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdbwvxN2ymldZ0eLCGUd8v9WwqTkewOFzAPDKzwGoq9X1lSCSUnhj9h81yad_uPAx1i1uISelW7c3O376fFvUb5zr95DVsMwNdOfpKn4kxxXAcDAZXdA4G8M22O47t_GFm3rLEe9R6sHvBKy6kNYt3q9Mwf7VCuXKXKsj7YBNdz__gz8ZurJihdbl2gNiw/s320/Logo%20Pulihkan.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
